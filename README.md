@@ -20,25 +20,25 @@ To compile a binary for a project use a command
     .###
     ....
     ....
-
-....
-.##.
-.##.
-....
-
-.#..
-.#..
-.#..
-.#..
-
-.#..
-##..
-.#..
-....
-
+    
+    ....
+    .##.
+    .##.
+    ....
+    
+    .#..
+    .#..
+    .#..
+    .#..
+    
+    .#..
+    ##..
+    .#..
+    ....
+    
 *Solution is*
 
-.A..C
-AAADC
-BBDDC
-BB.DC
+    .A..C
+    AAADC
+    BBDDC
+    BB.DC
